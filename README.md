@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Zadatak - Olimpijske igre
 
 - Napisati JavaScript / C# program za simulaciju košarkaškog turnira na Olimpijskim igrama.
@@ -32,7 +32,7 @@ U slučaju da 3 tima iz iste grupe imaju isti broj bodova, kriterijum za rangira
 ### U output-u prikazati ishode svih utakmica grupne faze po kolima, zatim rangiranja po grupama i kojih 8 ekipa je prošlo dalje.
 
 Primer output-a (vaš prikaz može biti drugačije formatiran, to nije presudno):
-```
+
 Grupna faza - I kolo:
     Grupa A:
         Kanada - Grška (85:79)
@@ -128,6 +128,4 @@ Medalje:
 Kod određivanja verovatnoće pobednika uzeti u obzir i formu ekipe.
 Početna tačka za ovu kalkulaciju mogu biti podaci iz fajla `exibitions.json` u kome su dati rezultati 2 prijateljske utakmice za svaku ekipu.
 Formu prera;unavati kako turnir odmiče, a možete kao faktor forme uključiti i jačinu protivnika i razliku koju je ekipa ostvarila.
-=======
-# basketball-tournament-task
->>>>>>> ad2c9f0cb22e053f67ddc7ec2726211be6e5594d
+
