@@ -35,6 +35,6 @@ public class EliminationStage
             Console.WriteLine($"{match.Item1.TeamName} - {match.Item2.TeamName} ({score1}:{score2})");
         }
 
-        // Ponatamu se simulira slicno
+        // Further stages can be simulated similarly
     }
 }

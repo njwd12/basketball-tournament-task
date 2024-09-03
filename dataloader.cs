@@ -23,3 +23,4 @@ public static class DataLoader
         return JsonConvert.DeserializeObject<Dictionary<string, List<MatchResult>>>(json);
     }
 }
+
