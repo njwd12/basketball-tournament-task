@@ -4,5 +4,5 @@ public class MatchResult
     public string TeamB { get; set; }
     public int ScoreA { get; set; }
     public int ScoreB { get; set; }
-    // Add other properties as needed
+    
 }
